@@ -9,5 +9,5 @@
 - **[Deploy a custom Lock Script]()**: Built the Script by compiling the contracts using **`pnpm install && pnpm build`**.Deployed the `hash-lock contract`
 
 ## Issues During Build
-When building the contract discovered that you need a `CKB degugger` running the environment locally is not enough.
+When building the contract discovered that you need a `CKB degugger` running the environment locally is not enough.<br>
 ![build error](./pictures/hash_error.png)
